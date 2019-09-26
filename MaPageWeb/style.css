@@ -1,0 +1,85 @@
+@font-face{
+		font-family: 'Century Gothic';
+	src: url('./Century Gothic, Regular.TTF');
+	font-family: 'GOTHIC';
+src:url(GOTHIC.TTF)
+}
+	
+	h1{
+	color: rgba(255,255,255,1.00);
+	font-size: 50px;
+		font-family: 'Back to Black Demo';
+}
+	h2{
+	color: rgba(21,62,108,1.00);
+	font-size: 50px;
+		font-family: 'Back to Black Demo';
+}
+
+	h3{
+	color: rgba(21,62,108,1.00);
+	font-size: 30px;
+		font-family: 'Back to Black Demo';
+}
+
+	h4{
+	color: rgba(255,255,255,1.00);
+	font-size: 30px;
+		font-family: 'Back to Black Demo';
+}
+	h5{
+	color: rgba(21,62,108,1.00);
+	font-size: 30px;
+	font-family: 'AdineKirnberg';
+}
+
+p1{
+	color: rgba(255,255,255,1.00);
+	font-size: 15px;
+		font-family: 'Century Gothic';
+}
+
+a{
+	color: white;
+		font-size: 15px;
+		font-family: 'Century Gothic';
+	padding: 10px
+
+}
+a:hover{
+	color: rgba(10,30,53,1.00);
+}
+nav{
+	background-color: rgba(21,62,108,1.00);
+	text-align: center;
+	padding: 20px;
+}
+#Apropos{
+	margin-top: 10%;
+	background-color: rgba(21,62,108,1.00);
+		padding: 10px;
+
+}
+
+#Etudes {
+	margin-top: 10%;
+	background-color: rgba(21,62,108,1.00);
+		padding: 10px;
+
+}
+#Accueil {
+	margin-top: 10%;
+		padding: 10px;
+		text-align: center;
+
+
+}
+#Competences {
+	margin-top: 10%;
+	background-color: rgba(21,62,108,1.00);
+		padding: 10px;
+
+}
+section{
+	background: url('imag')
+}
