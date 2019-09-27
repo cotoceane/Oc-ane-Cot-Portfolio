@@ -4,46 +4,12 @@
 	font-family: 'GOTHIC';
 src:url(GOTHIC.TTF)
 }
-	
-	h1{
-	color: rgba(255,255,255,1.00);
-	font-size: 50px;
-		font-family: 'Back to Black Demo';
-}
-	h2{
-	color: rgba(21,62,108,1.00);
-	font-size: 50px;
-		font-family: 'Back to Black Demo';
-}
-
-	h3{
-	color: rgba(21,62,108,1.00);
-	font-size: 30px;
-		font-family: 'Back to Black Demo';
-}
-
-	h4{
-	color: rgba(255,255,255,1.00);
-	font-size: 30px;
-		font-family: 'Back to Black Demo';
-}
-	h5{
-	color: rgba(21,62,108,1.00);
-	font-size: 30px;
-	font-family: 'AdineKirnberg';
-}
-
-p1{
-	color: rgba(255,255,255,1.00);
-	font-size: 15px;
-		font-family: 'Century Gothic';
-}
 
 a{
 	color: white;
 		font-size: 15px;
 		font-family: 'Century Gothic';
-	padding: 10px
+	padding: 10px;
 
 }
 a:hover{
@@ -54,32 +20,56 @@ nav{
 	text-align: center;
 	padding: 20px;
 }
-#Apropos{
-	margin-top: 10%;
+	#Accueil{
+	width:auto;
+	padding: 10px;
+	text-align: center;
+	height :auto 600px;
+	}
+
+	#Apropos {
+	width:auto;
+	padding: 10px;
+	text-align:left;
+	min-height :auto 600px;
 	background-color: rgba(21,62,108,1.00);
-		padding: 10px;
 
+	}
+
+	#Formation{
+		width:auto;
+		text-align: left;
+		min-height : 600px;
 }
-
-#Etudes {
-	margin-top: 10%;
+	#Competences {
+	width:auto;
+	text-align: left;
+	min-height : 600px;
 	background-color: rgba(21,62,108,1.00);
-		padding: 10px;
+	}
 
-}
-#Accueil {
-	margin-top: 10%;
-		padding: 10px;
-		text-align: center;
+	#Portfolio{
+	width:auto;
+	text-align: left;
+	min-height: 600px}
 
-
-}
-#Competences {
-	margin-top: 10%;
+	#Contact {
+	width:auto;
+	padding: 10px;
+	text-align:left;
 	background-color: rgba(21,62,108,1.00);
-		padding: 10px;
+	}
 
-}
-section{
-	background: url('imag')
-}
+		h1{
+			color: rgba(21,62,108,1.00);
+			font-size: 30px;
+			font-family: 'Back to Black Demo';}
+		h2{
+			color: rgba(255,255,255,1.00);
+			font-size: 30px;
+			font-family: 'Back to Black Demo';}
+		h3{
+			color: rgba(255,255,255,1.00);
+			font-size: 20px;
+			font-family: 'AdineKirnberg';}
+
